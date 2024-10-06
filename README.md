@@ -6,7 +6,7 @@
 Readout and Dark Noise applied to already available moon surface images. Training 
 
 ## Architecture
-![[Figs/Picture1.jpg]]
+![Architecture](https://github.com/Golden-Exp/SIH1732_Vantage/blob/main/Figs/Picture1.jpg)
 
 ## Ground Truth Image vs. Resultant Image
 //Resultant PSNR
